@@ -23,29 +23,6 @@
 ## 今年汇总(This year's summary) ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-### 开发的项目(developed projects)
-
-- 业务项目(business projects)
-  - [微狗实时聊天🔥](https://github.com/lhccong/we-go)
-  - [短链狗短链生成✨](https://github.com/lhccong/short-link-dog-backend)
-  - [COJ判题系统✅](https://github.com/lhccong/Coj-backend)
-  - [万物代码平台🌱](https://github.com/lhccong/wanwu-code-backend)
-  - [SpringBoot 项目快速开发模板⚡](https://github.com/lhccong/springboot-init)
-  - [万物代码生成器🚀](https://github.com/lhccong/wanwu-generator)
-
-
-
-
-
-- 组件项目(component projects)
-  - [轻量级 RPC 框架🚀基于 Netty + Zookeeper](https://github.com/lhccong/CRPC)
-  - [轻量级 RPC 框架🚀基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
-  - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
-  - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
-  - [Switch-HTTP 一款控制网络库工具组件💭](https://github.com/lhccong/switch-http)
-  - [AsyncX 一款控制任意的多线程并行、串行、阻塞、依赖、回调的并行框架🛫](https://github.com/lhccong/AsyncX)
-
-
 
 
 ### 🎉 Get in touch
